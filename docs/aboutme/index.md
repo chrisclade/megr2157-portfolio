@@ -7,4 +7,4 @@ I am a mechanical engineering student at the University of North Carolina at Cha
 To defend an engineering decision means being able to clearly explain why a particular decision was made and support that reasoning with evidence. This could include calculations, data, engineering principles, testing, or design requirements. At this point in my education, I believe I understand what it means to defend an engineering decision, but I do not think I am fully confident in doing it yet. I can explain my reasoning behind a decision, but I am still developing my ability to support those decisions with strong technical evidence and communicate them effectively. I expect that I will be significantly developing this skill throughout this semester and throughout my engineering education.  
 
 #### **Time Spent on This Project**  
-I have spent approximately 7 hours on this assignment.
+I have spent approximately 7 hours on this project.
