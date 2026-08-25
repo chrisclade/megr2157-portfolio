@@ -8,7 +8,7 @@ I will be analyzing
 
 ## Analyze
 
-### Task A: Engineering Portfolio Analysis
+### Task A: Engineering Portfolio Analysis  
 
 ### Portfolio 1: Nathan Hoong
 **Link:** https://nhoong.github.io/
@@ -28,8 +28,7 @@ I will be analyzing
 
 #### d. Professional tone
 **Metric:** does the language meet the standard of a document you would hand to an employer?
-**Analysis:** Nathan Hoong uses precise language and engineering terminology that supports his claims.
-
+**Analysis:** Nathan Hoong uses precise language and engineering terminology that supports his claims.  
 
 ### Portfolio 2: Ava Prior
 **Link:** https://instructure.charlotte.edu/eportfolios/4920/home
@@ -49,7 +48,22 @@ I will be analyzing
 
 #### d. Professional tone
 **Metric:** does the language meet the standard of a document you would hand to an employer?
-**Analysis:** The writing is structured as a conversational learning reflection rather than a technical process. Engineering terminology is used but the portfolio is lacking consistence formatting and precise language. It should not be turned over to an employer as it is.
+**Analysis:** The writing is structured as a conversational learning reflection rather than a technical process. Engineering terminology is used but the portfolio is lacking consistence formatting and precise language. It should not be turned over to an employer as it is.  
+
+### Task B: Product Analysis  
+
+The primary function of a screwdriver is to convert an applied manual torque at a large radius into an equivalent axial torque through a rigid shaft to tighten or loosen a threaded fastener. The primary mechanical behavior is governed by torque transmission and can be modeled as torque equals the cross product of the manual tangential force and the outer radius of the handle.
+$$T = r x F$$
+The governing assumption for this model is that the manual force is applied as pure torsion along the longitudinal axis, which is the most natural way to operate a screwdriver.
+
+The handle of the screwdriver, as picture in Figure 1, has a larger diameter than the metal shaft, providing the mechanical advantage required to produce a functional torque with a human grip. Additionally, the flutes in this specific screwdriver handle provide stops against the palms and fingers of a human hand, converting hand grip normal force more directly into tangential force without the need to rely entirely on skin friction.
+
+The cylindrical steel shaft of the screwdriver, pictured in Figure 2, provides a uniform polar moment of inertia to resist torsional shear stress along the body. The shaft tapers into a standard mating profile to maximize surface contact area to prevent the rounding and damage of the tool head or fastener slot.  
+
+The most prominent screwdriver patent was US Patent 2046840 A. This patent was filed by Phillips Screw Co in 1935 and invented by Henry F Phillips and Thomas M Fitzpatrick.
+Other inventions can perform the same primary function as a screwdriver such as an L-shaped hex key with a matching hex pattern on a fastener or a wrench with a hex head screw.  
+
+The screwdriver remains largely unchanged since that patent in 1935. For example, i seems clear that the inventors intended for there to be ridges or flutes in the handle in order to operate the screwdriver with a higher degree of efficiency.
 
 ## Decide
 
