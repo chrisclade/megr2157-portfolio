@@ -79,7 +79,9 @@ The homepage serves as an operational roadmap for my peers or a hiring manager r
 
 ### 2. One Intentional Customization   
 
-
+**Element Modified:** Navigational Labeling (Renamed default section 'Assignments' to 'Engineering Reports and Projects' in 'mkdocs.yml').  
+**Requirement Satisfied:** Precise identification of document type for external reviewers.  
+**Template Failure:** The template default used the term 'Assignments', which portrays the content as routine academic assignments submitted for the course instructor. This fails the functional requirement of establishing a professional engineering record for employers who look for peer-reviewable technical reports instead of student coursework submissions.  
 
 ### 3. Your Documentation Standard  
 
