@@ -85,6 +85,7 @@ The homepage serves as an operational roadmap for my peers or a hiring manager r
 
 ### 3. Your Documentation Standard  
 
+Every portfolio entry will documented in sufficient enough detail for an independent engineer to replicate the results without needing to ask a single clarifying question.  
 
 ## Communicate
 
