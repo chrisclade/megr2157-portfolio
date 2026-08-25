@@ -36,7 +36,7 @@ I will be analyzing
 
 #### a. Navigability
 **Metric:** can a reader locate any specific assignment or piece of work in under 60 seconds?  
-**Analysis:**A reader can navigate from the 'Welcome' page to the 'About Me' page or to Assignment #2 in approximately 5-10 seconds using the left sidebar and page index. However, the navigation architecture places additional project links ('Assignment #2' through 'Assignment #11') at the bottom of the 'Assignments' page instead of a consistently at the top of the page or in a sidebar. For longer entries, this forces the reader to scroll through the entire existing document to access additional assignments, substantially increasing navigation time.
+**Analysis:** A reader can navigate from the 'Welcome' page to the 'About Me' page or to Assignment #2 in approximately 5-10 seconds using the left sidebar and page index. However, the navigation architecture places additional project links ('Assignment #2' through 'Assignment #11') at the bottom of the 'Assignments' page instead of a consistently at the top of the page or in a sidebar. For longer entries, this forces the reader to scroll through the entire existing document to access additional assignments, substantially increasing navigation time.
 
 #### b. Reproducibility
 **Metric:** does the documentation contain enough information that a colleague could reproduce the work without asking a question?  
@@ -52,8 +52,10 @@ I will be analyzing
 
 ### Task B: Product Analysis  
 
-The primary function of a screwdriver is to convert an applied manual torque at a large radius into an equivalent axial torque through a rigid shaft to tighten or loosen a threaded fastener. The primary mechanical behavior is governed by torque transmission and can be modeled as torque equals the cross product of the manual tangential force and the outer radius of the handle.
-$$T = r x F$$
+The primary function of a screwdriver is to convert an applied manual torque at a large radius into an equivalent axial torque through a rigid shaft to tighten or loosen a threaded fastener. The primary mechanical behavior is governed by torque transmission and can be modeled as torque equals the cross product of the manual tangential force and the outer radius of the handle.  
+  
+  $$T = r x F$$  
+  
 The governing assumption for this model is that the manual force is applied as pure torsion along the longitudinal axis, which is the most natural way to operate a screwdriver.  
 
 **Figure 1** <img width="3024" height="4032" alt="IMG_8885" src="https://github.com/user-attachments/assets/760f71d4-9311-45c5-b7db-49b5ae8fbeb7" />  
