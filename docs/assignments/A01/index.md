@@ -54,7 +54,7 @@ I will be analyzing
 
 The primary function of a screwdriver is to convert an applied manual torque at a large radius into an equivalent axial torque through a rigid shaft to tighten or loosen a threaded fastener. The primary mechanical behavior is governed by torque transmission and can be modeled as torque equals the cross product of the manual tangential force and the outer radius of the handle.  
   
-  $$T = r x F$$  
+T = r x F  
   
 The governing assumption for this model is that the manual force is applied as pure torsion along the longitudinal axis, which is the most natural way to operate a screwdriver.  
 
@@ -71,9 +71,18 @@ Other inventions can perform the same primary function as a screwdriver such as 
 
 The screwdriver remains largely unchanged since that patent in 1935. For example, i seems clear that the inventors intended for there to be ridges or flutes in the handle in order to operate the screwdriver with a higher degree of efficiency.
 
-## Decide
+## Decide  
 
-Test
+### 1. Homepage Identity  
+
+The homepage serves as an operational roadmap for my peers or a hiring manager reviewing this portfolio. It immediately outlines the scope of work across the course, explains the three-pillar organization, and establishes that every project is held to an auditable standard of defendable calculations and decisions. Focusing the homepage on the document structure, rather than a personal background, the page acts as an efficient guide that lets the reader understand and access any project within 60 seconds.  
+
+### 2. One Intentional Customization   
+
+
+
+### 3. Your Documentation Standard  
+
 
 ## Communicate
 
