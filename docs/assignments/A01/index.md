@@ -15,19 +15,19 @@ I will be analyzing
 **Platform:** GitHub
 
 #### a. Navigability
-**Metric:** can a reader locate any specific assignment or piece of work in under 60 seconds?
+**Metric:** can a reader locate any specific assignment or piece of work in under 60 seconds?  
 **Analysis:** This portfolio is very simple and straight forward. Upon entering the site, it is possible to find any information listed in less than 20 seconds. The top of the site contains his two tabs, one for his portfolio, and one leading to his work experience. Additionally, there are 3 small buttons that provide easy access to his resume, Linkedin, and GitHub. His 'About Me' is the first thing a reader will see, under the portfolio tab, which is directly above a display of his engineering designs and projects.
 
 #### b. Reproducibility
-**Metric:** does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+**Metric:** does the documentation contain enough information that a colleague could reproduce the work without asking a question?  
 **Analysis:** Nathan Hoong's senior capstone project contains a link to a PDF containing a detailed breakdown of the project, making it reasonably possible for a colleague to reproduce the work. However, the remaining designs listed on the portfolio do not contain enough information for anyone to accurately reproduce his work.
 
 #### c. Evidence of reasoning
-**Metric:** does the portfolio show how decisions were made, or only what the final answer was?
+**Metric:** does the portfolio show how decisions were made, or only what the final answer was?  
 **Analysis:** The senior capstone project explains the decisions made and the resulting conclusions. The rest of the designs, however, do not give any insight into decision making process, only the resulting product.
 
 #### d. Professional tone
-**Metric:** does the language meet the standard of a document you would hand to an employer?
+**Metric:** does the language meet the standard of a document you would hand to an employer?  
 **Analysis:** Nathan Hoong uses precise language and engineering terminology that supports his claims.  
 
 ### Portfolio 2: Ava Prior
@@ -35,19 +35,19 @@ I will be analyzing
 **Platform:** UNC Charlotte Canvas ePortfolio
 
 #### a. Navigability
-**Metric:** can a reader locate any specific assignment or piece of work in under 60 seconds?
+**Metric:** can a reader locate any specific assignment or piece of work in under 60 seconds?  
 **Analysis:**A reader can navigate from the 'Welcome' page to the 'About Me' page or to Assignment #2 in approximately 5-10 seconds using the left sidebar and page index. However, the navigation architecture places additional project links ('Assignment #2' through 'Assignment #11') at the bottom of the 'Assignments' page instead of a consistently at the top of the page or in a sidebar. For longer entries, this forces the reader to scroll through the entire existing document to access additional assignments, substantially increasing navigation time.
 
 #### b. Reproducibility
-**Metric:** does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+**Metric:** does the documentation contain enough information that a colleague could reproduce the work without asking a question?  
 **Analysis:** Partial reproducibility is provided by including links to CAD parts, explaining the constraints, and explaining the equation solving process. However, a significant portion of the analytical method relies on low resolution photographs, making it hard to follow the same process.
 
 #### c. Evidence of reasoning
-**Metric:** does the portfolio show how decisions were made, or only what the final answer was?
+**Metric:** does the portfolio show how decisions were made, or only what the final answer was?  
 **Analysis:** The portfolio documents each of the calculations made, but omits the decision making criteria from the process.
 
 #### d. Professional tone
-**Metric:** does the language meet the standard of a document you would hand to an employer?
+**Metric:** does the language meet the standard of a document you would hand to an employer?  
 **Analysis:** The writing is structured as a conversational learning reflection rather than a technical process. Engineering terminology is used but the portfolio is lacking consistence formatting and precise language. It should not be turned over to an employer as it is.  
 
 ### Task B: Product Analysis  
