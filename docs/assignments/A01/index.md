@@ -11,7 +11,7 @@ I will be analyzing
 ### Task A: Engineering Portfolio Analysis  
 
 ### Portfolio 1: Nathan Hoong
-**Link:** https://nhoong.github.io/
+**Link:** https://nhoong.github.io/  
 **Platform:** GitHub
 
 #### a. Navigability
@@ -31,7 +31,7 @@ I will be analyzing
 **Analysis:** Nathan Hoong uses precise language and engineering terminology that supports his claims.  
 
 ### Portfolio 2: Ava Prior
-**Link:** https://instructure.charlotte.edu/eportfolios/4920/home
+**Link:** https://instructure.charlotte.edu/eportfolios/4920/home  
 **Platform:** UNC Charlotte Canvas ePortfolio
 
 #### a. Navigability
@@ -54,9 +54,13 @@ I will be analyzing
 
 The primary function of a screwdriver is to convert an applied manual torque at a large radius into an equivalent axial torque through a rigid shaft to tighten or loosen a threaded fastener. The primary mechanical behavior is governed by torque transmission and can be modeled as torque equals the cross product of the manual tangential force and the outer radius of the handle.
 $$T = r x F$$
-The governing assumption for this model is that the manual force is applied as pure torsion along the longitudinal axis, which is the most natural way to operate a screwdriver.
+The governing assumption for this model is that the manual force is applied as pure torsion along the longitudinal axis, which is the most natural way to operate a screwdriver.  
 
-The handle of the screwdriver, as picture in Figure 1, has a larger diameter than the metal shaft, providing the mechanical advantage required to produce a functional torque with a human grip. Additionally, the flutes in this specific screwdriver handle provide stops against the palms and fingers of a human hand, converting hand grip normal force more directly into tangential force without the need to rely entirely on skin friction.
+**Figure 1** <img width="3024" height="4032" alt="IMG_8885" src="https://github.com/user-attachments/assets/760f71d4-9311-45c5-b7db-49b5ae8fbeb7" />  
+
+The handle of the screwdriver, as picture in Figure 1, has a larger diameter than the metal shaft, providing the mechanical advantage required to produce a functional torque with a human grip. Additionally, the flutes in this specific screwdriver handle provide stops against the palms and fingers of a human hand, converting hand grip normal force more directly into tangential force without the need to rely entirely on skin friction.  
+
+**Figure 2** <img width="3024" height="4032" alt="IMG_8884" src="https://github.com/user-attachments/assets/a1247c8a-73db-428d-9fbd-d8f1049396bc" />  
 
 The cylindrical steel shaft of the screwdriver, pictured in Figure 2, provides a uniform polar moment of inertia to resist torsional shear stress along the body. The shaft tapers into a standard mating profile to maximize surface contact area to prevent the rounding and damage of the tool head or fastener slot.  
 
