@@ -189,4 +189,7 @@ All About 4130 Steel (Properties, Strength, and Uses) | Fushun Special Steel. (2
 Because the pins are loaded in single shear, I expect the failure mode would be shear failure. One way to reduce the chances of pin failure would be to use a double shear connection instead of a single shear connection. That way there are two shear planes, which reduces the individual load on each shear plane. Additionally, increasing the diameter of the pin would increase the cross-sectional area that resists shear, reducing the shear stress in the pin.  
 
 **Citations:**  
-Busch, M. (2020, February). Shear Joints - SavvyAviation. SavvyAviation. https://www.savvyaviation.com/shear-joints/#tbofallacy
+Busch, M. (2020, February). Shear Joints - SavvyAviation. SavvyAviation. https://www.savvyaviation.com/shear-joints/#tbofallacy  
+
+
+**This project took me approximately 15 hours to complete**
