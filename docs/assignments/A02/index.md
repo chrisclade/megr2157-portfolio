@@ -163,7 +163,7 @@ The mass for a pin was predicted to be 0.00137 kilograms per pin. There is a sig
 
 ### CAD Files  
 
-**Truss File**
+**Truss File**  
 [MEGR2157_Truss_ChrisClade.zip](https://github.com/user-attachments/files/31784808/MEGR2157_Truss_ChrisClade.zip)  
 
 **Pin File**  
