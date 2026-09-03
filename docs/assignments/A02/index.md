@@ -161,6 +161,14 @@ The mass for a pin was predicted to be 0.00137 kilograms per pin. There is a sig
 
 <img width="853" height="900" alt="image" src="https://github.com/user-attachments/assets/ceb0152e-af9f-4f1e-9b91-6f10253f91e3" />  
 
+### CAD Files  
+
+**Truss File**
+[MEGR2157_Truss_ChrisClade.zip](https://github.com/user-attachments/files/31784808/MEGR2157_Truss_ChrisClade.zip)  
+
+**Pin File**  
+[MEGR2157_TrussPin_ChrisClade.zip](https://github.com/user-attachments/files/31784915/MEGR2157_TrussPin_ChrisClade.zip)  
+  
 ## Decide  
 
 ### Lesson Learned  
@@ -181,4 +189,4 @@ All About 4130 Steel (Properties, Strength, and Uses) | Fushun Special Steel. (2
 Because the pins are loaded in single shear, I expect the failure mode would be shear failure. One way to reduce the chances of pin failure would be to use a double shear connection instead of a single shear connection. That way there are two shear planes, which reduces the individual load on each shear plane. Additionally, increasing the diameter of the pin would increase the cross-sectional area that resists shear, reducing the shear stress in the pin.  
 
 **Citations:**  
-Busch, M. (2020, February). Shear Joints - SavvyAviation. SavvyAviation. https://www.savvyaviation.com/shear-joints/#tbofallacy  
+Busch, M. (2020, February). Shear Joints - SavvyAviation. SavvyAviation. https://www.savvyaviation.com/shear-joints/#tbofallacy
