@@ -99,30 +99,86 @@ Using the calculated mass, I found the weight in Newtons per pin. Then I multipl
 
 <img width="975" height="292" alt="image" src="https://github.com/user-attachments/assets/4bf1bd19-0bb3-45c2-b4c9-8a71ebe51c67" />  
 
+### CAD Model  
 
+Next, I modeled my 2D truss and pins in CAD while making sure to maintain the minimum cross-sectional area for each. I began by making sure the correct material was selected for the truss.  
 
+<img width="423" height="273" alt="image" src="https://github.com/user-attachments/assets/683a4f68-021e-4c99-ac18-e9bdbdb6724f" />  
 
+Then I started a sketch and used lines to drawn the rough shape of my truss.  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/9682838b-ce79-4362-b321-53f55e6b9a50" />  
 
+Once the shape was made, I added dimensions to make sure the truss is as accurate as possible to my calculations.  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/1e35328c-06f4-41d7-ad0e-fea19a282f9d" />  
 
+<img width="975" height="450" alt="image" src="https://github.com/user-attachments/assets/2826e7c2-fec7-492a-8852-0d6dde272829" />  
 
+After the dimensions were placed and the sketch was fully defined, I started a second sketch where I made 5 circles, concentric to each of the joints. These will be where the holes for each pin are cut out.  
 
+<img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/d3ee9c06-e35b-49bc-85d3-abb9a30689ce" />  
 
+I then set the radius for each of the circles to my calculated radius, 0.00417 meters.  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/bfcd4dd1-5141-4748-a4c1-abce822a6b96" />  
 
+Then I moved back to my first sketch and offset each of the lines in the truss by 5.5 millimeters, making each member approximately 11 millimeters long, just like in the calculations.  
 
+<img width="980" height="532" alt="image" src="https://github.com/user-attachments/assets/1cca80a4-2224-401e-a458-655b9e218006" />  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/124556d3-728c-4de9-b15f-bf9791893d29" />  
 
+Once all the dimensions were accurately inputted, I extruded the truss out by 11 millimeters, which matches all the dimensions in the calculations.  
 
+<img width="993" height="539" alt="image" src="https://github.com/user-attachments/assets/43e5b1fa-a37d-4302-8043-c256c0642eda" />  
 
+After I extruded it, I returned to my second sketch and cut the 5 pin holes out of the truss.  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/8323e0eb-eefb-4bb2-8f06-c3b5ccfcc7af" />  
 
+Next, I opened a new part in SolidWorks and began modeling a pin. I sketched a circle on the origin and set the radius equal 0.00417 meters, which is what I calculated the radius should be.  
 
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/68a8a52d-bd67-4826-bc08-06271db701f1" />  
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-I chose a warren truss structure because its strong and distributes loads well
+Then I extruded the circle out by 13 millimeters to make it my desired pin length.  
 
-## Communicate
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/eebb0926-fd6a-4283-90a2-1782a6ef462d" />  
 
+I could not find anything labeled as “Hardened Tool Steel” in the list of materials for this pin. I picked the most similar material I could think of that was listed, Plain Carbon Steel, and I edited the material properties to give it the same density and yield shear strength I was provided.  
+
+<img width="853" height="427" alt="image" src="https://github.com/user-attachments/assets/02593268-1dcc-4797-a415-0be96145d4ba" />  
+
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/fee51c38-ea3a-4add-b4d7-68e40421a547" />  
+
+### CAD - Weight of Truss and Pins  
+
+To determine the predicted weight for the truss and pin with SolidWorks, I used the material properties tool. The mass for the truss came out to be 3.121 kilograms. This is fairly close to my calculated 3.18 kilograms. Part of the difference is most likely because the holes cut into the truss removed some material, which I did not account for in my calculations.  
+
+<img width="853" height="897" alt="image" src="https://github.com/user-attachments/assets/1f3d104f-0b93-4161-9f9b-dcbb416c4d6c" />  
+
+The mass for a pin was predicted to be 0.00137 kilograms per pin. There is a significant difference between this value and my calculated of 0.00548 kg per pin. It is possible the reason behind this difference is due to me attempting to replicate the material instead of using the actual material. I am not sure.  
+
+<img width="853" height="900" alt="image" src="https://github.com/user-attachments/assets/ceb0152e-af9f-4f1e-9b91-6f10253f91e3" />  
+
+## Decide  
+
+### Lesson Learned  
+
+While doing this project I learned how to design a truss by calculating internal forces, using material yield strength, and using a safety factor to determine the minimum cross-sectional area required for the largest internal force. This experience with material yield strength and stress, which are relatively new concepts for me, has made me a lot more confident in future projects inside and outside this course.  
+
+### Likelihood of Failure Modes in Truss Components  
+
+**Part 1 - Truss Members**  
+
+If a truss member is under tension, the expected failure mode would be yielding. If the truss member was under compression, the expected failure mode would be buckling. The material I chose, AISI 4130 steel, is a ductile steel and it has a high modulus of elasticity, making it a strong choice for a structural steel. However, it does have a lower tensile yield strength when compared to other steels. In my truss, member ED has the highest internal tension acting on it. I believe member ED would have the highest likelihood of failing. One design modification that could reduce it from failing would be to add additional members to my truss to provide more load paths and distribute the applied loads among more members.  
+
+**Citations:**  
+All About 4130 Steel (Properties, Strength, and Uses) | Fushun Special Steel. (2022, April 27). Fushun Special Steel Co., Ltd. - Professional Supplier of Special Steel, and Manufacturer of Tool Steel | Manufacturer of Tool Steel, Stainless Steel, Nickel Alloy, Alloy Steel. https://www.fushunspecialsteel.com/all-about-4130-steel-properties-strength-and-uses/  
+  
+**Part 2 - Pin Connections**
+
+Because the pins are loaded in single shear, I expect the failure mode would be shear failure. One way to reduce the chances of pin failure would be to use a double shear connection instead of a single shear connection. That way there are two shear planes, which reduces the individual load on each shear plane. Additionally, increasing the diameter of the pin would increase the cross-sectional area that resists shear, reducing the shear stress in the pin.  
+
+**Citations:**  
+Busch, M. (2020, February). Shear Joints - SavvyAviation. SavvyAviation. https://www.savvyaviation.com/shear-joints/#tbofallacy  
