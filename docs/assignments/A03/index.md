@@ -13,7 +13,9 @@ I started by writing down my given values, chosen values, and equations I would 
 <img width="975" height="572" alt="image" src="https://github.com/user-attachments/assets/d9751c33-7f09-4493-8a43-5d276bbe5172" />  
   
 Using the direct tension elongation equation, I was able to solve for L and plug in the known values for each of the other variables to find the length of the bar. Solving for the length will help me verify I input my values into SolidWorks correctly next.  
-
+  
+<img width="975" height="248" alt="image" src="https://github.com/user-attachments/assets/8fcfa742-5aea-4907-a5b6-09593157e39a" />  
+  
 ### CAD  
 
 Since I had all my variables, I could begin modeling the bar in SolidWorks. I started by creating parameters with all my variables and equations by inputting them as Global Variables. Since the length calculated in SolidWorks matched the length calculated by hand, I knew the Global Variables were correctly set up.  
