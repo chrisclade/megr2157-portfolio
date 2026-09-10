@@ -80,5 +80,8 @@ I changed the diameter of the bar to 50 inches and the direct applied force to t
 <img width="975" height="225" alt="image" src="https://github.com/user-attachments/assets/20de78e9-ce56-4329-9946-4d929cb6625d" />  
 
 ### Time Spent  
-I spent approximately 5 hours on this project.
-
+I spent approximately 5 hours on this project.  
+  
+### CAD Files  
+  
+[MEGR2157_A3_ChrisClade.zip](https://github.com/user-attachments/files/32034178/MEGR2157_A3_ChrisClade.zip)
