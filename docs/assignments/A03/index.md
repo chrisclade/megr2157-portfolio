@@ -7,8 +7,11 @@ The purpose of this project was to use parametric design and FEA to model a bar 
 For the applied load, I chose 400 lbf. For the diameter, I chose 5 inches. And using the SolidWorks material list, I chose 1060 Aluminum Alloy, which has a Young’s Modulus of 10.0 x 106.  
 
 <img width="975" height="800" alt="image" src="https://github.com/user-attachments/assets/500de83c-9cd8-49d7-807c-eaf4db94ea84" />  
+
 I started by writing down my given values, chosen values, and equations I would be using.  
+  
 <img width="975" height="572" alt="image" src="https://github.com/user-attachments/assets/d9751c33-7f09-4493-8a43-5d276bbe5172" />  
+  
 Using the direct tension elongation equation, I was able to solve for L and plug in the known values for each of the other variables to find the length of the bar. Solving for the length will help me verify I input my values into SolidWorks correctly next.  
 
 ### CAD  
