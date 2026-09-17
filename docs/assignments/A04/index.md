@@ -101,7 +101,12 @@ This project taught me how material properties, geometry, and loading conditions
 ## CAD Files  
   
 Motor Mount:  
-[Motor_Mount.zip](https://github.com/user-attachments/files/32336335/Motor_Mount.zip)
+[Motor_Mount.zip](https://github.com/user-attachments/files/32336335/Motor_Mount.zip)  
+  
+Motor Mount Drawing:  
+[Motor_Mount_Drawing.zip](https://github.com/user-attachments/files/32336543/Motor_Mount_Drawing.zip)
+
+
 
 
 
