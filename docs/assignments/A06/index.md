@@ -17,7 +17,6 @@ Next, I made sure to change my material to the chosen material and then I inputt
 <img width="975" height="301" alt="image" src="https://github.com/user-attachments/assets/eaa9b1e6-315b-4a83-b371-d712b7b14842" />  
   
 # Feature A  
-  
 I started with feature A and then modeled off of that since that was how I previously solved for the dimensions.  
   
 <img width="975" height="621" alt="image" src="https://github.com/user-attachments/assets/01a509c5-760d-400f-97d7-cf03538c104c" />  
