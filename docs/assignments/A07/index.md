@@ -368,15 +368,35 @@ My bracket design got better with each design change while my linkage got worse.
   
 <img width="975" height="577" alt="image" src="images/link-design-3-113.png" />  
   
-## CAD FILES  
+# CAD Files  
   
-## HOW LONG THIS TAKE?  
+### Bracket Design 1 -  
+  
+[A6 Bracket Design 1.zip](https://github.com/user-attachments/files/33809433/A6.Bracket.Design.1.zip)  
+  
+### Bracket Design 2 -  
+  
+[A6 Bracket Design 2.zip](https://github.com/user-attachments/files/33809531/A6.Bracket.Design.2.zip)  
+  
+### Bracket Design 3 -  
+  
+[A6 Bracket Design 3.zip](https://github.com/user-attachments/files/33809545/A6.Bracket.Design.3.zip)  
+  
+### Link Design 1 -  
+  
+[A6 Link Design 1.zip](https://github.com/user-attachments/files/33809628/A6.Link.Design.1.zip)  
+  
+### Link Design 2 -  
+  
+[A6 Link Design 2.zip](https://github.com/user-attachments/files/33809687/A6.Link.Design.2.zip)  
+  
+### Link Design 3 -  
+  
+[A6 Link Design 3.zip](https://github.com/user-attachments/files/33809739/A6.Link.Design.3.zip)  
+  
+# Time Spent  
+  
+I spent approximately 10 hours on this assignment.
+
   
 
-## Analyze
-
-
-## Decide
-
-
-## Communicate
