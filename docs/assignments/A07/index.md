@@ -326,119 +326,52 @@ The mass decreased by 0.04 lbs making it only 0.01 lbs heavier than design 1.
   
 ### Coarse mesh  
   
-<img width="975" height="1153" alt="image" src="https://github.com/user-attachments/assets/168f9f8a-0a74-484d-ad48-3d96e625bba8" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="975" height="1153" alt="image" src="https://github.com/user-attachments/assets/168f9f8a-0a74-484d-ad48-3d96e625bba8" />  
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="749" height="669" alt="image" src="images/link-design-3-102.png" />  
+  
+<img width="975" height="1033" alt="image" src="images/link-design-3-103.png" />  
+  
+### Medium mesh  
+  
+<img width="975" height="1302" alt="image" src="images/link-design-3-104.png" />  
+  
+<img width="753" height="666" alt="image" src="images/link-design-3-105.png" />  
+  
+<img width="975" height="1103" alt="image" src="images/link-design-3-106.png" />  
+  
+#### Analysis and Interpretation  
+  
+<img width="975" height="587" alt="image" src="images/link-design-3-107.png" />  
+  
+The convergence percentage is still not as good as it was in the first design, but there are improvements from the second design. Since it is not under 7% I decided to run the simulation again with a fine mesh.  
+  
+### Fine mesh  
+  
+<img width="975" height="1265" alt="image" src="images/link-design-3-108.png" />  
+  
+<img width="750" height="667" alt="image" src="images/link-design-3-109.png" />  
+  
+<img width="975" height="1137" alt="image" src="images/link-design-3-110.png" />  
+  
+<img width="975" height="1079" alt="image" src="images/link-design-3-111.png" />  
+  
+#### Analysis and Interpretation  
+  
+<img width="612" height="717" alt="image" src="images/link-design-3-112.png" />  
+  
+The fine mesh simulation made the results more unstable. I am not entirely sure where I went wrong in this design or why the results are so inconsistent. However, the first design meets the projects tolerances and gives stable results with convergence percentages under 7%. Because of this, I am going to scrap the new design and stay with my original because it seems to be the most effective.  
+  
+## Reflection  
+  
+My bracket design got better with each design change while my linkage got worse. This taught me that the design process is not easy and it takes time. Just because one part of the design process goes smoothly does not mean the rest will.  
+  
+<img width="975" height="577" alt="image" src="images/link-design-3-113.png" />  
+  
+## CAD FILES  
+  
+## HOW LONG THIS TAKE?  
+  
 
 ## Analyze
 
@@ -447,4 +380,3 @@ The mass decreased by 0.04 lbs making it only 0.01 lbs heavier than design 1.
 
 
 ## Communicate
-
