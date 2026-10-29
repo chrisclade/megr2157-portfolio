@@ -155,6 +155,10 @@ I put all the parts into an assembly, and it seems like it all fits properly. I 
 
 I learned a lot more about the differences between allowable power and transmitted power and the effect they have on required dimensions. Additionally, I realized how much purchased components can restrict your design. It was very frustrating trying to do calculations based on the preexisting models, especially since I have such little experience with this. I also learned how important it is to practice because I have not made an assembly in SolidWorks in roughly 5 years and I felt that as I was struggling to mate the pieces together.
 
-## CAD Files:
-
-## Time Spent:
+## CAD Files:  
+  
+[CAD Files.zip](https://github.com/user-attachments/files/34131274/CAD.Files.zip)  
+  
+## Time Spent:  
+  
+I spend approximately 15 hours on this project.
