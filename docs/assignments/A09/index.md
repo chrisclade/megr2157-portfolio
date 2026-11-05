@@ -1,4 +1,4 @@
-# A9 – Pulleys
+# A9 – Pulley System Design
 
 ## Objective
 
@@ -15,7 +15,7 @@ The objective of this project is to design a pulley system to transfer power bet
 
 ## Belt design
 
-I began with the belt design by listing all my knowns and unknowns then sketching a free body diagram. The coefficient of friction was not given to us, so I had to find it on my own. I googled “polyurethane round belt coefficient of friction on steel” and got a couple different responses but I settled with a value of 0.7
+I began with the belt design by listing all my knowns and unknowns then sketching a free body diagram. The coefficient of friction was not given to us, so I had to find it on my own. I googled “polyurethane round belt coefficient of friction on steel” and got a couple different responses but I settled with a value of 0.7.
 
 <img width="611" height="838" alt="image" src="images/image2.png" />
 
@@ -65,7 +65,7 @@ Next, I decided to pick a bearing length of 1 inch and then solved for my unknow
 
 <img width="624" height="379" alt="image" src="images/image13.png" />
 
-With the solved values, I used the table below to decide that porous bronze will be the bearing material.
+With the solved values, I used the table to decide that porous bronze will be the bearing material.
 
 ## Frame Design
 
